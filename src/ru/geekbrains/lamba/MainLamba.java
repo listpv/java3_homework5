@@ -22,7 +22,7 @@ public class MainLamba
         Operationable division;
         division = ((x, y) -> x / y);
 
-        System.out.println("Калькулятор консольный.");
+        System.out.println("Калькулятор.");
         while (true)
         {
             System.out.println("Ведите действие, например А * В");
